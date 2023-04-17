@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
       appBar:  AppBar(
         title:  const Text("Calculator"),
       ), //AppBar
-      backgroundColor: Colors.white60,
+      backgroundColor: Colors.white70,
       body: Column(
         children: [
           Expanded(
